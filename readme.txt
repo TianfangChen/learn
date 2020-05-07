@@ -4,4 +4,4 @@ Git nb.
 GIT tracks changes of files.
 github.
 
-CREATE a new branch is quick && simple.
+CREATE a new branch is quick and simple.
